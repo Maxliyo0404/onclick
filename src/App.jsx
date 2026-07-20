@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 function App() {
   const [name, setName] = useState("Ahror");
   const handleChange () =>  {
-   setName
+   setName('Malika')
   }
   return (
     <div className="app"></div>
