@@ -23,6 +23,6 @@ button{
   border: none;
   transition: all 03s ease;
   &:hover{
-    transform: translate();
+    transform: scale(1.1);
   }
 }
