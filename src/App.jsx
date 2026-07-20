@@ -7,7 +7,7 @@ function App() {
    if(name === "Ahror"){
      setName ("Malika");
    }else{
-    
+     setName("Ahror");
    }
   }
   return (
