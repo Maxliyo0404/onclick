@@ -8,8 +8,8 @@ function App() {
   }
   return (
     <div className="app">
-      <h1>(`Mening ismim ${name}`)</h1>
-      <button onClick={handleChange}></button>
+      <h1>Mening ismim {name}</h1>
+      <button onClick={handleChange}>ism</button>
     </div>
   )
 }
