@@ -21,4 +21,5 @@ button{
   background: white;
   color: blueviolet;
   border: none;
+  transition: all 03s ease;
 }
