@@ -5,7 +5,9 @@ function App() {
   const [name, setName] = useState("Ahror");
   const handleChange = () =>  {
    if(name === "Ahror"){
-     setName
+     setName ("Malika");
+   }else{
+    
    }
   }
   return (
