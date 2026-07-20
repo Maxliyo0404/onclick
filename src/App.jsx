@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="app">
       <h1>Mening ismim {name}</h1>
-      <button onClick={handleChange}>send</button>
+      <button onClick={handleChange} disabled={name=== "Malika"}>send</button>
     </div>
   )
 }
